@@ -17,6 +17,7 @@ cursor = conn.cursor()
 # -------------------------
 # Вспомогательные функции
 # zaxsfmk,kjhgfdgvhbjnkm
+# abcd
 # -------------------------
 def commit():
     try:
